@@ -9,7 +9,7 @@
     "@ai-sdk/openai": "^0.0.63",
     "@dotenvx/dotenvx": "^1.32.0",
     "@paypal/agent-toolkit": "latest",
-    "ai": "^4.0.0"
+    "ai": "^5.0.89"
   },
   "devDependencies": {
     "@types/node": "^22.7.4"
