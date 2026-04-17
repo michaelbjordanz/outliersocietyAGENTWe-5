@@ -16,7 +16,7 @@ openai-agents==0.0.2
 
 # LangChain
 langchain==0.3.23
-langchain-openai==0.2.2
+langchain-openai==1.1.14
 
 # CrewAI
 setuptools>=61.0
